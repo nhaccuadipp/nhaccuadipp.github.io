@@ -1,2 +1,2 @@
-# nhaccuadipp.github.io/music
+# nhaccuadipp.github.io
 music
